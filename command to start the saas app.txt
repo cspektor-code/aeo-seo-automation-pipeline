@@ -1,0 +1,1 @@
+cd "/Users/charleyspektor/Library/Mobile Documents/com~apple~CloudDocs/LevelBlue/Alicia folder/Level Blue SEO MASTER Weekly reports/onthebrink_saas" && python3 -m streamlit run app.py
